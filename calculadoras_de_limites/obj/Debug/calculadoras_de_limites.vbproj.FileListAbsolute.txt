@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.Form1.resources
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.Resources.resources
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\bin\Debug\calculadoras_de_limites.exe.config
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\bin\Debug\calculadoras_de_limites.exe
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\bin\Debug\calculadoras_de_limites.pdb
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\bin\Debug\calculadoras_de_limites.xml
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.exe
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.xml
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.pdb
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.Form2.resources
+C:\Users\Alumno\source\repos\calculadoras_de_limites\calculadoras_de_limites\obj\Debug\calculadoras_de_limites.Form3.resources

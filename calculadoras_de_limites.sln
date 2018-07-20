@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "calculadoras_de_limites", "calculadoras_de_limites\calculadoras_de_limites.vbproj", "{B84E0397-7FD2-41E1-9FD6-D3181E328C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84E0397-7FD2-41E1-9FD6-D3181E328C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84E0397-7FD2-41E1-9FD6-D3181E328C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84E0397-7FD2-41E1-9FD6-D3181E328C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84E0397-7FD2-41E1-9FD6-D3181E328C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54A5A48-2C6D-4063-AE24-8A9F0C0FFF48}
+	EndGlobalSection
+EndGlobal
